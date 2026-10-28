@@ -12,7 +12,7 @@
     "update": "tsx src/update.ts"
   },
   "dependencies": {
-    "discord.js": "^14.26.4",
+    "discord.js": "^14.27.0",
     "dotenv": "^17.4.2",
     "semver": "^7.8.5"
   },
